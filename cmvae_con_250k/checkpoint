@@ -1,2 +1,2 @@
-model_checkpoint_path: "cmvae_model_40.ckpt"
-all_model_checkpoint_paths: "cmvae_model_40.ckpt"
+model_checkpoint_path: "cmvae_model_50.ckpt"
+all_model_checkpoint_paths: "cmvae_model_50.ckpt"

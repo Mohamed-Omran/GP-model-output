@@ -1,0 +1,35 @@
+’­8òB
+
+network
+u
+layer_with_weights-0
+layer-0
+layer_with_weights-1
+layer-1
+layer_with_weights-2
+layer-2
+
+
+kernel
+bias
+
+
+kernel
+bias
+
+
+	kernel
+
+bias
+vt
+VARIABLE_VALUE"bc_latent/bc_dense/dense_15/kernel>network/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+rp
+VARIABLE_VALUE bc_latent/bc_dense/dense_15/bias<network/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE
+vt
+VARIABLE_VALUE"bc_latent/bc_dense/dense_18/kernel>network/layer_with_weights-1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+rp
+VARIABLE_VALUE bc_latent/bc_dense/dense_18/bias<network/layer_with_weights-1/bias/.ATTRIBUTES/VARIABLE_VALUE
+vt
+VARIABLE_VALUE"bc_latent/bc_dense/dense_19/kernel>network/layer_with_weights-2/kernel/.ATTRIBUTES/VARIABLE_VALUE
+rp
+VARIABLE_VALUE bc_latent/bc_dense/dense_19/bias<network/layer_with_weights-2/bias/.ATTRIBUTES/VARIABLE_VALUE
